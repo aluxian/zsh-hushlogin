@@ -1,0 +1,1 @@
+[[ -f ~/.hushlogin ]] || touch ~/.hushlogin
